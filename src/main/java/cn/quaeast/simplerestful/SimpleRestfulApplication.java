@@ -1,6 +1,5 @@
 package cn.quaeast.simplerestful;
 
-import cn.quaeast.simplerestful.apis.SayHello;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
