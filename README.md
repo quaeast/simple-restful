@@ -12,6 +12,8 @@ mvn spring-boot:run
 
 ```python
 import requests
+
+url = 'http://localhost:8080/'
 r = requests.get(url=url)
 print(r.status_code)
 print(r.text)
